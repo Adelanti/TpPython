@@ -1,1 +1,7 @@
-# TpPython
+# Information :
+
+GAMANE adel 201400008309 Gr 1
+BENRABIA rachid 201500009436 Gr 3
+LAAREK abdelatif 201500008455 Gr 3
+SEBOUH oussama 20148309 Gr 2
+
